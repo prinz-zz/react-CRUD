@@ -1,0 +1,13 @@
+front-end : 
+Mysql : Server 8.0.30, Workbench 8.0.30, Shell 8.0.30,
+React : 18.2.0,
+Sass : 1.55.0,
+react-router-dom : 6.4.1 
+axios : 1.1.2         
+
+
+back-end:
+express : "^4.18.1",
+mysql : "^2.18.1",
+nodemon : "^2.0.20"
+
